@@ -28,7 +28,11 @@
     <option name="OPEN_IN_BROWSER" value="true" />
     <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../cardata\exportToHTML" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WCf3ZUZmzplEX4t92JSX0NXL6S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/OneDrive/CLionProjects/cardata" />
@@ -78,6 +82,7 @@
       <workItem from="1578837813321" duration="56000" />
       <workItem from="1578837898415" duration="45267000" />
       <workItem from="1579180469441" duration="67000" />
+      <workItem from="1582760213946" duration="640000" />
     </task>
     <servers />
   </component>
